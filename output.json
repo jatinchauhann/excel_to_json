@@ -1,0 +1,72 @@
+{
+  "First Name": "Jatin",
+  "Last Name": "Chauhan",
+  "Age": "20",
+  "School": {
+    "Maths": {
+      "module_config_path": "Mathematics and Algebra",
+      "module_template_path": 90.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    },
+    "Science": {
+      "module_config_path": "Physics & Chemistry",
+      "module_template_path": 78.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "C"
+    },
+    "English": {
+      "module_config_path": "Literature and Comprehension",
+      "module_template_path": 88.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "B"
+    },
+    "Social Studies": {
+      "module_config_path": "Politics & Economy",
+      "module_template_path": 90.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    },
+    "Arts": {
+      "module_config_path": "Scenec",
+      "module_template_path": 99.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    }
+  },
+  "College": {
+    "Computers": {
+      "module_config_path": "Basic of Computer",
+      "module_template_path": 90.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    },
+    "Java": {
+      "module_config_path": "Language",
+      "module_template_path": 88.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "B"
+    },
+    "Python": {
+      "module_config_path": "Language",
+      "module_template_path": 100.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    },
+    "OS": {
+      "module_config_path": "Operating System",
+      "module_template_path": 96.0,
+      "module_exec_script_path": 100.0,
+      "module_type": "Pass",
+      "pyspark_opts": "A"
+    }
+  }
+}
